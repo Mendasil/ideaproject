@@ -6,7 +6,6 @@ public class PrimeiraClasse {
         String sobreNome = "";
         double saldo = 150;
         double valorUtil = 0;
-        double valorUtil2 = 0;
         String contiSN = "S";
         Scanner digitaDados = new Scanner(System.in);
         byte opcao = 0;
